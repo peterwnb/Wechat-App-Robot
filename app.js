@@ -28,6 +28,6 @@ App({
   globalData:{
     userInfo:null,
     qq:null,
-    base:'https://nutz.cn/wxopen/wizzer'
+    base:'https://order.wizzer.cn/open/wxopen'
   }
 })
